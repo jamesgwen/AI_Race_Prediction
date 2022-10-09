@@ -5,4 +5,7 @@ Studying transfer learning for predicting race based on chest scans. Code and re
 - Version 2_100Epoch.ipynb: transfer learning model version 2
 - Version 3_100Epoch.ipynb: transfer learning model version 3(no data augmentation) 
 - Version 4_100Epoch.ipynb: transfer learning model version 4
+- ScratchModel_noAug.ipynb: explicitly trained model version 3
+- ScratchModel.ipynb: explicitly trained model version 2
+
 
